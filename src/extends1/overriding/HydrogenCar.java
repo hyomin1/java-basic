@@ -1,4 +1,4 @@
-package overriding;
+package extends1.overriding;
 
 public class HydrogenCar extends Car {
 

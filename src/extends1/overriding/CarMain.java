@@ -1,4 +1,4 @@
-package overriding;
+package extends1.overriding;
 
 public class CarMain {
     public static void main(String[] args) {
